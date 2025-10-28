@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Utility Classes */
+@layer utilities {
+  .bg-glass-gradient {
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.15),
+      rgba(255, 255, 255, 0)
+    );
+  }
+
+  .border-pinkglow {
+    border-color: #f472b6; /* Tailwind's pink-400 */
+  }
+
+  .rounded-glass {
+    border-radius: 1rem;
+  }
+
+  .shadow-pink-glow {
+    box-shadow: 0 4px 30px rgba(244, 114, 182, 0.5);
+  }
+
+  .animate-fade-in-up {
+    animation: fadeInUp 0.8s ease-out forwards;
+  }
+
+  .animate-fade-in-up\.delay-100 {
+    animation-delay: 0.1s;
+  }
+
+  .animate-fade-in-up\.delay-200 {
+    animation-delay: 0.2s;
+  }
+}
+
+/* Keyframes for Animation */
+@layer utilities {
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Custom Scrollbar (for chat boxes or any .chat-container) */
+.chat-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.chat-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.chat-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+.chat-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
