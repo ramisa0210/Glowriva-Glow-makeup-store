@@ -68,6 +68,7 @@ Glowriva Glow is a full-stack skincare e-commerce platform built with the MERN s
 <img width="1240" height="2110" alt="products" src="https://github.com/user-attachments/assets/0b35e21d-5961-42fb-94a9-78a243fc1bce" />
 <img width="1358" height="602" alt="coupon" src="https://github.com/user-attachments/assets/95c0a72e-a62e-4197-a89e-74c5515a7213" />
 <img width="1358" height="602" alt="analysis" src="https://github.com/user-attachments/assets/3f784920-e8a2-4a0a-a054-261964fd82cc" />
+<img width="1351" height="500" alt="mongo_glow" src="https://github.com/user-attachments/assets/bc7b1bdb-b8ca-42da-973f-4604fba7f964" />
 
 ###  Home Page
 
