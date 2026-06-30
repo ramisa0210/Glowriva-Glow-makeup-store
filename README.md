@@ -1,6 +1,6 @@
-# Glowriva Glow : https://glowriva-glow-makeup-website-sq2k.vercel.app
+# Glowriva Glow 
 
-### Skincare and Makeup E-Commerce Platform
+### Skincare and Makeup E-Commerce Platform Live Demo : https://glowriva-glow-makeup-website-sq2k.vercel.app
 
 Glowriva Glow is a full-stack skincare e-commerce platform built with the MERN stack. The platform provides a smooth shopping experience with secure authentication, product management, cart functionality and an AI-powered chatbot that helps users with skincare-related queries and personalized product suggestions.
 
