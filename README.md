@@ -6,7 +6,8 @@ Glowriva Glow is a full-stack skincare e-commerce platform built with the MERN s
 
 ##  Features
 
-### 👤 User Features
+### 👤 User Features<img width="1240" height="2321" alt="offer" src="https://github.com/user-attachments/assets/84a3c1bf-6c78-4215-995b-eb19774ae348" />
+
 
 * User registration and login system
 * JWT-based secure authentication
@@ -57,12 +58,12 @@ Glowriva Glow is a full-stack skincare e-commerce platform built with the MERN s
 ## 📸 Project Screenshots
 
 <img width="1318" height="736" alt="home (2)" src="https://github.com/user-attachments/assets/3e12df2d-2596-4623-a9d8-766529dae67d" />
-<img width="1240" height="4187" alt="product" src="https://github.com/user-attachments/assets/66f677fc-5b4d-4e0c-b1a7-c176109bbaf9" />
-<img width="1240" height="3131" alt="offer" src="https://github.com/user-attachments/assets/e99548e4-877d-4f69-a43c-687e6221ac0e" />
-<img width="1240" height="1080" alt="consultation" src="https://github.com/user-attachments/assets/a9026fc3-fa50-43e7-b415-825f07c5ff21" />
+<img width="1240" height="3804" alt="product" src="https://github.com/user-attachments/assets/90502909-0cfb-4095-83ac-a969aa9a5e3a" />
+<img width="1240" height="2321" alt="offer" src="https://github.com/user-attachments/assets/d8f1e692-309f-49cd-b1bb-0758d2796af3" />
+<img width="1240" height="736" alt="consultation" src="https://github.com/user-attachments/assets/67c32725-f99c-49d0-8224-5e66a673695f" />
 <img width="1326" height="1159" alt="AI assistant" src="https://github.com/user-attachments/assets/2db4ceb5-f952-42a1-9620-e7273ec15e24" />
 <img width="1322" height="675" alt="customer dashboard" src="https://github.com/user-attachments/assets/f112612a-1bf1-4773-ae58-c51e0dc702ee" />
-<img width="1334" height="852" alt="order" src="https://github.com/user-attachments/assets/9747d472-c8b1-4fc9-984e-dc2889f85f49" />
+<img width="1334" height="670" alt="order" src="https://github.com/user-attachments/assets/4bf170af-490f-4eb7-933d-a06a48d06f03" />
 <img width="1240" height="1813" alt="admin" src="https://github.com/user-attachments/assets/0e4a4b42-4968-4f9c-86ec-1107c327c10a" />
 <img width="1240" height="1052" alt="customer" src="https://github.com/user-attachments/assets/6a0b9b6b-ea89-4972-b89d-616e8ecec458" />
 <img width="1240" height="2110" alt="products" src="https://github.com/user-attachments/assets/0b35e21d-5961-42fb-94a9-78a243fc1bce" />
